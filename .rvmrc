@@ -1,1 +1,1 @@
-rvm --create use  "1.9.3@datascribes"
+rvm --create use  "1.9.3@freeair"
